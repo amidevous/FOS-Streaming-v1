@@ -18,9 +18,7 @@
 - predefined transcode profiles
 
 ## Installation options:
-1. `wget https://raw.githubusercontent.com/zgelici/FOS-Streaming-v1/master/install.sh`
-2. `chmod 755 install.sh`
-3. `./install.sh`
+1. `wget https://github.com/amidevous/FOS-Streaming-v1/raw/master/install.sh && chmod 755 install.sh && ./install.sh`
 
 
 ### Change port of panel
